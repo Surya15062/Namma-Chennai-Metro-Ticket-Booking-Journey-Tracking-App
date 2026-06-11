@@ -3,12 +3,17 @@
   <img src="assets/Namma Chennai Metro.png" alt="Namma Chennai Metro" width="100%">
 </p>
 
-🚇 Namma Chennai Metro – Ticket Booking & Journey Tracking App (Concept)
-
-Namma Chennai Metro is a modern mobile companion application for Chennai's metro rail network, built to make urban commuting seamless and effortless.
-
-The system combines a **Node.js backend**, a **SQLite database**, and a **React Native mobile application** to deliver real-time train schedules, smart route planning, QR-based ticketing, and live system status — all from a single, beautifully designed app.
-
+<h1 align="center">🚇 Namma Chennai Metro</h1>
+<p align="center"><em>Ticket Booking & Journey Tracking — Concept App</em></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-Expo_54-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-v16+-339933?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/SQLite-better--sqlite3-003B57?style=flat-square&logo=sqlite" />
+  <img src="https://img.shields.io/badge/Platform-Android_|_iOS-lightgrey?style=flat-square" />
+</p>
+ 
+🚇 Namma Chennai Metro is a concept-based mobile application built to enhance the metro travel experience by combining QR ticketing, route planning, nearest station assistance, metro network navigation, and journey tracking into one intuitive platform.
+ 
 ---
 
 # ✨ Features
