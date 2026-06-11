@@ -1,0 +1,4 @@
+﻿app/(tabs)/map.tsx(140,51): error TS2322: Type '"muted"' is not assignable to type '"warning" | "danger" | "accent" | "success" | "info" | undefined'.
+app/(tabs)/map.tsx(166,38): error TS2322: Type '"green"' is not assignable to type '"warning" | "danger" | "accent" | "success" | "info" | undefined'.
+app/(tabs)/map.tsx(167,37): error TS2322: Type '"blue"' is not assignable to type '"warning" | "danger" | "accent" | "success" | "info" | undefined'.
+app/booking/result.tsx(166,11): error TS2322: Type '"outline"' is not assignable to type '"primary" | "secondary" | "danger" | "ghost" | "green" | undefined'.

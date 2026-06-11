@@ -1,0 +1,13 @@
+{
+  "name": "namma-chennai-metro-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run backend\" \"npm run mobile\"",
+    "backend": "cd backend && npm run dev",
+    "mobile": "cd mobile && npm start",
+    "install:all": "npm install && cd backend && npm install && cd ../mobile && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
